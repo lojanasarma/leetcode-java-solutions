@@ -1,8 +1,6 @@
-
 #🚀 LeetCode Solutions
 
-<img width="1280" height="311" alt="image" src="https://github.com/user-attachments/assets/ca228aa7-40a4-48a5-a4b3-fc2aa154633a" />
-
+<img width="2000" height="1041" alt="image" src="https://github.com/user-attachments/assets/b0633cfb-4a5b-49fd-970d-23800131c1ec" />
 
 📌 About This Repository
 
@@ -37,7 +35,5 @@ Each solution is written with a focus on:
    📌 Difficulty  🟢Easy 
                      Solved :- Two Sum Question 0uestion 1
                      Palindrome Number Question 9
-                     
                    🟡 Medium :-
-                   
-                   🔴 Hard: 5+ problems
+                   🔴 Hard :- 
