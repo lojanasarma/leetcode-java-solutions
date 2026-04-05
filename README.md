@@ -34,6 +34,7 @@ Each solution is written with a focus on:
 📊 Progress Tracker
    📌 Difficulty  🟢Easy 
                      Solved :- Two Sum Question 0uestion 1
-                     Palindrome Number Question 9
+                               Palindrome Number Question 9
+                               Search Insert Position Question 35
                    🟡 Medium :-
                    🔴 Hard :- 
