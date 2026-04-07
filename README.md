@@ -40,7 +40,6 @@ Each solution is written with a focus on:
                      Solved :- Two Sum 0uestion 1
                                Palindrome Number Question 9
                                Search Insert Position Question 35
-                               Add Binary Question 67
-                               Reverse Integer Question 7 
-                   🟡 Medium :-
+                               Add Binary Question 67         
+                   🟡 Medium :- Reverse Integer Question 7
                    🔴 Hard :- 
