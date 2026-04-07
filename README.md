@@ -1,6 +1,10 @@
 #🚀 LeetCode Solutions
 
-<img width="2000" height="1041" alt="image" src="https://github.com/user-attachments/assets/b0633cfb-4a5b-49fd-970d-23800131c1ec" />
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-Practice-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Progress-Consistent-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
 📌 About This Repository
 
