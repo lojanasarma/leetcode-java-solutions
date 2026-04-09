@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Progress-Consistent-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DSA+in+Java;LeetCode+Journey;Lojana+Sarma)](https://git.io/typing-svg)
 
 📌 About This Repository
 
