@@ -59,7 +59,8 @@ Focus areas:
 - Valid Palindrome (#125)  
 - Valid Parentheses (#20)
 - Sqrt(x) (#69)
-- Binary Tree Inorder Traversal (#94)  
+- Binary Tree Inorder Traversal (#94)
+- Plus One (#66)
 
 ### 🟡 Medium
 - Reverse Integer (#7)  
