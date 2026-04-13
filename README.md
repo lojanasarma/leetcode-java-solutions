@@ -61,6 +61,7 @@ Focus areas:
 - Sqrt(x) (#69)
 - Binary Tree Inorder Traversal (#94)
 - Plus One (#66)
+- Is power of Two (#231)
 
 ### 🟡 Medium
 - Reverse Integer (#7)  
