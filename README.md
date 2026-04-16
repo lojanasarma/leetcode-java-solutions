@@ -16,7 +16,6 @@
         <stop offset="0%" stop-color="#00c6ff" stop-opacity="0.9"/>
         <stop offset="100%" stop-color="#7b2ff7" stop-opacity="0.9"/>
       </linearGradient>
-
       <filter id="softGlow">
         <feGaussianBlur stdDeviation="3" result="blur"/>
         <feMerge>
@@ -24,27 +23,22 @@
           <feMergeNode in="SourceGraphic"/>
         </feMerge>
       </filter>
-
       <filter id="glassBlur">
         <feGaussianBlur stdDeviation="6"/>
       </filter>
     </defs>
-
     <circle cx="60" cy="60" r="50"
             fill="rgba(255,255,255,0.05)"
             stroke="rgba(255,255,255,0.15)"
             stroke-width="2"
             filter="url(#glassBlur)"/>
-
-    <circle cx="60" cy="60" r="42"
+   <circle cx="60" cy="60" r="42"
             fill="rgba(255,255,255,0.03)"/>
-
-    <circle cx="60" cy="60" r="40"
+ <circle cx="60" cy="60" r="40"
             stroke="rgba(255,255,255,0.1)"
             stroke-width="8"
             fill="none"/>
-
-    <circle cx="60" cy="60" r="40"
+   <circle cx="60" cy="60" r="40"
             stroke="url(#glassGrad)"
             stroke-width="8"
             fill="none"
@@ -58,7 +52,6 @@
                dur="2s"
                repeatCount="indefinite"/>
     </circle>
-
     <circle cx="60" cy="60" r="40"
             stroke="rgba(255,255,255,0.25)"
             stroke-width="2"
@@ -72,7 +65,6 @@
                         dur="3s"
                         repeatCount="indefinite"/>
     </circle>
-
     <text x="60" y="66" text-anchor="middle"
           font-size="16"
           fill="rgba(255,255,255,0.9)"
