@@ -6,25 +6,8 @@
   <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/LeetCode-Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   
-<p align="right">
-  <svg width="320" height="50" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#ff7a18;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#4facfe;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <rect width="320" height="50" rx="10" fill="url(#grad)" />
-    <text x="160" y="28"
-          font-family="Verdana, sans-serif"
-          font-size="16"
-          fill="white"
-          text-anchor="middle">
-      Completed: 19 questions
-    </text>
-  </svg>
-</p>
-
+  Completed: 19 questions
+  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+in+Java;LeetCode+Journey;Consistent+Practice&center=true&width=500&height=50" />
 
