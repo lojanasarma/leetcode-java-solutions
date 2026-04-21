@@ -69,6 +69,7 @@ Focus areas:
 - To Lower Case (#709)
 - Is power of Three (#326)
 - Three Consecutive Odds (#1550)
+- Valid Perfect Square (#367)
 
 ### 🟡 Medium
 - Reverse Integer (#7)  
