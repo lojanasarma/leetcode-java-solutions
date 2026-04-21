@@ -6,27 +6,20 @@
   <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/LeetCode-Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   
-</p>
 <p align="right">
-<svg width="320" height="50" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad">
-      <stop offset="0%" stop-color="#ff7a18">
-        <animate attributeName="stop-color" values="#ff7a18;#32d2aa;#4facfe;#ff7a18" dur="4s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#4facfe">
-        <animate attributeName="stop-color" values="#4facfe;#ff7a18;#32d2aa;#4facfe" dur="4s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-
-  <rect x="0" y="0" width="320" height="50" rx="10" fill="url(#grad)"/>
-  
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-family="Verdana" font-size="16" fill="white">
-    Completed: 19 questions
-  </text>
-</svg>
+  <svg width="320" height="50" viewBox="0 0 320 50" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#ff7a18"/>
+        <stop offset="100%" stop-color="#4facfe"/>
+      </linearGradient>
+    </defs>
+    <rect width="320" height="50" rx="10" fill="url(#grad)"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Verdana, sans-serif" font-size="16" fill="white">
+      Completed: 19 questions
+    </text>
+  </svg>
 </p>
 
 <p align="center">
