@@ -78,7 +78,8 @@ Focus areas:
 ### 🟡 Medium
 - Reverse Integer (#7)  
 - Single Number II (#137)
-- Power(x,n) (#50)  
+- Power(x,n) (#50)
+- Sum of Square Numbers (#633)  
 
 ### 🔴 Hard
 - First Missing Positive (#41)
