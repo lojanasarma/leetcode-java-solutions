@@ -76,6 +76,7 @@ Focus areas:
 - Contains Duplicate (#217)
 - Contains Duplicate II (#219)
 - Find the Difference (#389)
+- Rotate String (#796)
 
 ### 🟡 Medium
 - Reverse Integer (#7)  
