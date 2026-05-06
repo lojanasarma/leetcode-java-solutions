@@ -6,7 +6,29 @@
   <img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/LeetCode-Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   
-  <p align="right">Completed: 30 questions</p>
+  <svg xmlns="http://www.w3.org/2000/svg" width="320" height="30">
+  <defs>
+    <clipPath id="clip">
+      <rect x="0" y="0" width="320" height="30" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <text x="320" y="20"
+          font-family="Arial, sans-serif"
+          font-size="14"
+          fill="white">
+      Completed: 31 questions
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        from="0 0"
+        to="-420 0"
+        dur="6s"
+        repeatCount="indefinite" />
+    </text>
+  </g>
+</svg>
   
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=DSA+in+Java;LeetCode+Journey;Consistent+Practice&center=true&width=500&height=50" />
