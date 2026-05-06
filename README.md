@@ -79,6 +79,7 @@ Focus areas:
 - Rotate String (#796)
 - Majority Element (#169)
 - Remove Element (#27)
+- Number of Good Pairs (#1512)
 
 ### 🟡 Medium
 - Reverse Integer (#7)  
