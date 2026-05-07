@@ -104,6 +104,7 @@ Focus areas:
 - Majority Element (#169)
 - Remove Element (#27)
 - Number of Good Pairs (#1512)
+- Find Numbers with Even Number of Digits (#1295)
 
 ### 🟡 Medium
 - Reverse Integer (#7)  
