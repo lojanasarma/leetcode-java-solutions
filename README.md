@@ -19,7 +19,7 @@
           font-family="Arial, sans-serif"
           font-size="14"
           fill="white">
-      Completed: 31 questions
+      Completed: 32 questions
       <animateTransform
         attributeName="transform"
         type="translate"
