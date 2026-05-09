@@ -19,7 +19,7 @@
           font-family="Arial, sans-serif"
           font-size="14"
           fill="white">
-      Completed: 33 questions
+      Completed: 34 questions
       <animateTransform
         attributeName="transform"
         type="translate"
@@ -115,3 +115,4 @@ Focus areas:
 
 ### 🔴 Hard
 - First Missing Positive (#41)
+- - Median of Two Sorted Arrays (#4)
