@@ -19,7 +19,7 @@
           font-family="Arial, sans-serif"
           font-size="14"
           fill="white">
-      Completed: 34 questions
+      Completed: 35 questions
       <animateTransform
         attributeName="transform"
         type="translate"
@@ -106,6 +106,7 @@ Focus areas:
 - Number of Good Pairs (#1512)
 - Find Numbers with Even Number of Digits (#1295)
 - Best Time to Buy and Sell Stock (#121)
+- Add Digits (#258)
 
 ### 🟡 Medium
 - Reverse Integer (#7)  
