@@ -19,7 +19,7 @@
           font-family="Arial, sans-serif"
           font-size="14"
           fill="white">
-      Completed: 35 questions
+      Completed: 36 questions
       <animateTransform
         attributeName="transform"
         type="translate"
@@ -107,6 +107,7 @@ Focus areas:
 - Find Numbers with Even Number of Digits (#1295)
 - Best Time to Buy and Sell Stock (#121)
 - Add Digits (#258)
+- Separate the Digits in an Array (#2553)
 
 ### 🟡 Medium
 - Reverse Integer (#7)  
@@ -116,4 +117,4 @@ Focus areas:
 
 ### 🔴 Hard
 - First Missing Positive (#41)
-- - Median of Two Sorted Arrays (#4)
+- Median of Two Sorted Arrays (#4)
