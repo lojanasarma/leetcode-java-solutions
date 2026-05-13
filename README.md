@@ -19,7 +19,7 @@
           font-family="Arial, sans-serif"
           font-size="14"
           fill="white">
-      Completed: 37 questions
+      Completed: 38 questions
       <animateTransform
         attributeName="transform"
         type="translate"
@@ -109,6 +109,7 @@ Focus areas:
 - Add Digits (#258)
 - Separate the Digits in an Array (#2553)
 - Number of Segments in a String (#434)
+- Length of Last Word (#58)
 
 ### 🟡 Medium
 - Reverse Integer (#7)  
