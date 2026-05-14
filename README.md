@@ -19,7 +19,7 @@
           font-family="Arial, sans-serif"
           font-size="14"
           fill="white">
-      Completed: 38 questions
+      Completed: 39 questions
       <animateTransform
         attributeName="transform"
         type="translate"
@@ -115,7 +115,8 @@ Focus areas:
 - Reverse Integer (#7)  
 - Single Number II (#137)
 - Power(x,n) (#50)
-- Sum of Square Numbers (#633)  
+- Sum of Square Numbers (#633)
+- Sort Colors (#75) 
 
 ### 🔴 Hard
 - First Missing Positive (#41)
