@@ -19,7 +19,7 @@
           font-family="Arial, sans-serif"
           font-size="14"
           fill="white">
-      Completed: 39 questions
+      Completed: 40 questions
       <animateTransform
         attributeName="transform"
         type="translate"
@@ -116,7 +116,8 @@ Focus areas:
 - Single Number II (#137)
 - Power(x,n) (#50)
 - Sum of Square Numbers (#633)
-- Sort Colors (#75) 
+- Sort Colors (#75)
+- Find Minimum in Rotated Sorted Array (#158) 
 
 ### 🔴 Hard
 - First Missing Positive (#41)
