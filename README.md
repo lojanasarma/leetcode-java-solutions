@@ -19,7 +19,7 @@
           font-family="Arial, sans-serif"
           font-size="14"
           fill="white">
-      Completed: 40 questions
+      Completed: 41 questions
       <animateTransform
         attributeName="transform"
         type="translate"
@@ -122,3 +122,4 @@ Focus areas:
 ### 🔴 Hard
 - First Missing Positive (#41)
 - Median of Two Sorted Arrays (#4)
+- Find Minimum in Rotated Sorted Array II (#154)
