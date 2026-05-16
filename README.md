@@ -117,7 +117,7 @@ Focus areas:
 - Power(x,n) (#50)
 - Sum of Square Numbers (#633)
 - Sort Colors (#75)
-- Find Minimum in Rotated Sorted Array (#158) 
+- Find Minimum in Rotated Sorted Array (#153) 
 
 ### 🔴 Hard
 - First Missing Positive (#41)
