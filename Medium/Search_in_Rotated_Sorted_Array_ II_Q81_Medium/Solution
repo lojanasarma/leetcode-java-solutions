@@ -1,0 +1,26 @@
+class Solution {
+
+    // Method to search for a target value in the array
+    public boolean search(int[] nums, int target) {
+
+        // Variable to store whether the target is found
+        boolean result = false;
+
+        // Loop through each element in the array
+        for(int i = 0; i < nums.length; i++) {
+
+            // Check if the current element matches the target
+            if(nums[i] == target) {
+
+                // If match is found, set result to true
+                result = true;
+
+            }
+
+        }
+
+        // Return the search result
+        return result;
+        
+    }
+}
