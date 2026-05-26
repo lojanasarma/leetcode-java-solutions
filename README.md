@@ -19,7 +19,7 @@
           font-family="Arial, sans-serif"
           font-size="14"
           fill="white">
-      Completed: 49 questions
+      Completed: 50 questions
       <animateTransform
         attributeName="transform"
         type="translate"
@@ -125,7 +125,8 @@ Focus areas:
 - Find the Prefix Common Array of Two Arrays (#2657)
 - Find the Length of the Longest Common Prefix (#3043)
 - Search in Rotated Sorted Array (#33)
-- Maximum Gap (#164) 
+- Maximum Gap (#164)
+- Search in Rotated Sorted Array II (#81)
 
 ### 🔴 Hard
 - First Missing Positive (#41)
