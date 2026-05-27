@@ -19,7 +19,7 @@
           font-family="Arial, sans-serif"
           font-size="14"
           fill="white">
-      Completed: 50 questions
+      Completed: 51 questions
       <animateTransform
         attributeName="transform"
         type="translate"
@@ -113,6 +113,7 @@ Focus areas:
 - Minimum Common Value (#2540)
 - Binary Search (#704)
 - Number of 1 Bits (#191)
+- Score Validator (#3921)
 
 ### 🟡 Medium
 - Reverse Integer (#7)  
