@@ -19,7 +19,7 @@
           font-family="Arial, sans-serif"
           font-size="14"
           fill="white">
-      Completed: 52 questions
+      Completed: 53 questions
       <animateTransform
         attributeName="transform"
         type="translate"
@@ -115,6 +115,7 @@ Focus areas:
 - Number of 1 Bits (#191)
 - Score Validator (#3921)
 - Sum of Squares of Special Elements (#2778)
+- Remove Duplicates from Sorted Array (#26)
 
 ### 🟡 Medium
 - Reverse Integer (#7)  
