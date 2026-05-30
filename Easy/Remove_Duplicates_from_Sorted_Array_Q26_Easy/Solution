@@ -1,0 +1,33 @@
+class Solution {
+
+    public int removeDuplicates(int[] nums) {
+
+        // If array is empty, no unique elements exist
+        if (nums.length == 0) {
+            return 0;
+        }
+
+        // k keeps track of the position
+        // where the next unique element should be placed
+        int k = 1;
+
+        // Start from index 1 because
+        // the first element is always unique
+        for (int i = 1; i < nums.length; i++) {
+
+            // Compare current element with previous element
+            // Since array is sorted, duplicates will be next to each other
+            if (nums[i] != nums[i - 1]) {
+
+                // Place unique element at index k
+                nums[k] = nums[i];
+
+                // Move k to next position
+                k++;
+            }
+        }
+
+        // Return number of unique elements
+        return k;
+    }
+}
